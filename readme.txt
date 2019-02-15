@@ -1,6 +1,6 @@
 ﻿一、web pc端请修改如下配置
 
-WeChat_Mini-app_Shop\application\database.php
+wechatMinishop\application\database.php
 
     // 服务器地址
     'hostname'        => '127.0.0.1',
@@ -11,7 +11,7 @@ WeChat_Mini-app_Shop\application\database.php
     // 密码
     'password'        => '',
 
-WeChat_Mini-app_Shop\application\api\config.php
+wechatMinishop\application\api\config.php
 
 'wxpay' => [
 
@@ -36,7 +36,7 @@ WeChat_Mini-app_Shop\application\api\config.php
 
 二、小程序端请修改如下配置
 
-StudyFox_Mini-app_Shop\app.js
+wechatMinishop\app.js
 
 const appid = ''
  //小程序应用id
@@ -49,7 +49,7 @@ globalData: {
 
 
 
-StudyFox_Mini-app_Shop\project.config.json
+wechatMinishop\project.config.json
 
 "appid": "",
 
