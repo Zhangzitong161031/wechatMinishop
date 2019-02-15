@@ -36,7 +36,7 @@ wechatMinishop\application\api\config.php
 
 二、小程序端请修改如下配置
 
-wechatMinishop\app.js
+weichatApp\app.js
 
 const appid = ''
  //小程序应用id
@@ -49,7 +49,7 @@ globalData: {
 
 
 
-wechatMinishop\project.config.json
+weichatApp\project.config.json
 
 "appid": "",
 
