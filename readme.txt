@@ -1,6 +1,6 @@
 ﻿一、web pc端请修改如下配置
 
-wechatMinishop\application\database.php
+back-end\application\database.php
 
     // 服务器地址
     'hostname'        => '127.0.0.1',
@@ -11,7 +11,7 @@ wechatMinishop\application\database.php
     // 密码
     'password'        => '',
 
-wechatMinishop\application\api\config.php
+back-end\application\api\config.php
 
 'wxpay' => [
 
